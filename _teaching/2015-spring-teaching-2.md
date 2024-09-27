@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Bachelor     Chinese Language and Literature"
 collection: teaching
-type: "Workshop"
+type: "1999.09-2003.07"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "Fudan University"
 date: 2015-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+
 
 Heading 1
 ======
