@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Innovative Paths for the Construction of Grassroots Party Branches in State-Owned Enterprises"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
