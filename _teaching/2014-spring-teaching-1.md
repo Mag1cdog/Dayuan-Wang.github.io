@@ -1,10 +1,9 @@
 ---
 title: "Master in Business Administration"
 collection: teaching
-type: "Undergraduate course"
+type: "Xi'an Jiaotong University"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+date: 2020.09-2023.04
 location: "City, Country"
 ---
 
